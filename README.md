@@ -1,5 +1,5 @@
 # Node + Express + Mongoose REST API 
-The intention of this project is to provide a Simple Solid Scalable base of code to create RESTful APIs using Node.js + Express.js and MongoDB (Mongoose ODM).
+The intention of this project is how to create RESTful APIs using Node.js + Express.js and MongoDB (Mongoose ODM).
 It provides a User profile CRUD as an example.
 
 ## Dependencies
